@@ -1,46 +1,51 @@
-![Beige and White Modern LinkedIn Background Photo](https://github.com/user-attachments/assets/c1b23d41-7aec-452e-82c1-39ecb10c5ad9)
-                  <h1>Hi there, I'm Ganesh Bari 👋</h1>
 
-## 🚀 About Me
-I'm a dedicated Software Engineer with 1 year of hands-on experience in software development and cloud infrastructure. Currently, I am seeking a challenging Cloud Engineering position to leverage my skills in designing, implementing, and managing scalable cloud solutions. I aim to contribute to innovative projects and drive organizational success while expanding my expertise in cloud technologies.
+                # 👋 Hi, I'm Ganesh Bari!
 
-## 🛠 Skills
-- **Languages:** Java, Python
-- **Frameworks:** Spring Boot, Micro-service Architecture
-- **Database Management:** MySQL, Oracle
-- **Operating Systems:** Linux, Windows
-- **Cloud Platform:** AWS
-- **Cloud Services:** IaaS, PaaS, SaaS
-- **Automation Tools:** Terraform
+## 🌟 About Me
+I am an **AWS Cloud Engineer** with expertise in **cloud infrastructure, automation, and security**. I specialize in designing and implementing **scalable, highly available architectures** using AWS services. My skills include **Infrastructure as Code (IaC), cloud networking, security best practices, and cloud cost optimization**.
+
+## 🚀 Skills & Technologies
+- **Cloud Platforms:** AWS
+- **AWS Services:** EC2, VPC, S3, IAM, SNS, CloudFront, Route 53, RDS, Lambda, API Gateway
+- **Infrastructure as Code (IaC):** Terraform, CloudFormation
+- **Monitoring & Logging:** AWS CloudWatch, AWS CloudTrail
+- **Networking & Security:** VPC, Security Groups, IAM Policies, NACLs, VPN
 - **Version Control:** Git
-- **Work Management:** Jira
-- **Ticketing Tool:** Remedy
-- **CI/CD Tools:** Jenkins
-- **Containerization:** Docker
-- **Monitoring Tools:** CloudWatch
-- **Networking:** Understanding of basic networking concepts
+- **Programming Languages:** Java
+- **Operating Systems:** Linux, Windows, Ubuntu
+- **Project Management:** Jira
 
-## 🔧 Tools & Technologies
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+## 📂 Featured Projects
+### 🔹 [Three-Tier Architecture Deployment on AWS](#)
+- Designed and deployed a **secure, scalable three-tier application** using AWS.
+- Configured **VPC with public and private subnets** for security isolation.
+- Implemented **Application Load Balancer (ALB)** for traffic distribution.
+- Deployed **application servers on EC2** and optimized **Amazon RDS database** performance.
+- Enforced **IAM roles and security groups** to control access.
+- Enabled **monitoring using AWS CloudWatch** and logging via AWS CloudTrail.
 
-## 🌟 Projects
-### [FAST (Fulfillment and Servicing Technology) - BOFA](https://github.com/Ganeshbari/fast-project)
-- Credit Email Assist
-- Treasury Fulfillment and Service Operations Email Assist
-- Treasury Fulfillment and Service Operations Document Assist
-- Developed applications to automate email classification and data extraction.
-- Created service requests in downstream application Icon.
-- Facilitated processing of servicing requests for payments, advances, rollovers, etc.
+### 🔹 [FAST (Fulfillment and Servicing Technology) – BOFA](#)
+- Developed applications for **Credit Email Assist, Treasury Fulfillment, and Document Assist**.
+- Automated **email classification and data extraction** for efficiency.
+- Created **service requests in downstream application Icon**.
+- Streamlined processing of **servicing requests for payments, advances, rollovers, etc.**
 
-### [Oxygen Cylinder Management System - CDAC](https://github.com/Ganeshbari/oxygen-cylinder-management)
-- Designed a system to manage real-time oxygen availability for hospitals and consumers.
-- Developed roles for hospitals, vendors, and admin for application management.
-- Ensured essential oxygen supply through user registrations and orders.
+### 🔹 [Oxygen Cylinder Management System](#)
+- Developed a **real-time oxygen supply management system** for hospitals and consumers.
+- Designed **role-based access control (RBAC)** for hospitals, vendors, and admins.
+- Enabled seamless **user registrations and order processing**.
 
+## 📜 Certifications
+- **AWS re/Start Graduate**
+- **AWS Cloud Application Developer Program** (Vinsys IT Services & The Generation India)
+- **Java Fundamentals**, IBM
+- **Agile with Atlassian Jira**, Coursera
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ganesh-bari-a36035194)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github)](https://github.com/Ganeshbari)
+
+🚀 **Let's build and innovate in the cloud together!** 🌩️
 ## 📫 How to reach me
 - **Email:** [ganeshbari244@gmail.com](mailto:ganeshbari244@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ganesh-bari-a36035194](https://www.linkedin.com/in/ganesh-bari-a36035194)
