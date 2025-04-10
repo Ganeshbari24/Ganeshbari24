@@ -1,5 +1,4 @@
-
-                # 👋 Hi, I'm Ganesh Bari!
+ #👋 Hi, I'm Ganesh Bari!
 
 ## 🌟 About Me
 I am an **AWS Cloud Engineer** with expertise in **cloud infrastructure, automation, and security**. I specialize in designing and implementing **scalable, highly available architectures** using AWS services. My skills include **Infrastructure as Code (IaC), cloud networking, security best practices, and cloud cost optimization**.
@@ -41,11 +40,6 @@ I am an **AWS Cloud Engineer** with expertise in **cloud infrastructure, automat
 - **Java Fundamentals**, IBM
 - **Agile with Atlassian Jira**, Coursera
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ganesh-bari-a36035194)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github)](https://github.com/Ganeshbari)
-
-🚀 **Let's build and innovate in the cloud together!** 🌩️
 ## 📫 How to reach me
 - **Email:** [ganeshbari244@gmail.com](mailto:ganeshbari244@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ganesh-bari-a36035194](https://www.linkedin.com/in/ganesh-bari-a36035194)
@@ -55,6 +49,8 @@ I am an **AWS Cloud Engineer** with expertise in **cloud infrastructure, automat
 - **AWS re/Start Graduate** - [Credentails](https://www.credly.com/badges/e9c56dbb-2e48-4d66-8c3a-b4608c5218a3/public_url)
 - **Java Fundamentals Provided by IBM** - [Credentials](https://courses.etrain.skillsnetwork.site/certificates/50bb8fed43844813b01f12a8fb35d048)
 - **Agile with Atlassian Jira Provided by Coursera** - [Credentials](https://coursera.org/verify/YA4TQPC83B56)
+
+🚀 **Let's build and innovate in the cloud together!** 🌩️
 
 ## 📚 Blog
 Check out my latest articles on cloud engineering and serverless architecture at [My Blog](https://yourblog.com).
