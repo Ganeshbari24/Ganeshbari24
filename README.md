@@ -1,4 +1,4 @@
- #👋 Hi, I'm Ganesh Bari!
+ ##👋 Hi, I'm Ganesh Bari!
 
 ## 🌟 About Me
 I am an **AWS Cloud Engineer** with expertise in **cloud infrastructure, automation, and security**. I specialize in designing and implementing **scalable, highly available architectures** using AWS services. My skills include **Infrastructure as Code (IaC), cloud networking, security best practices, and cloud cost optimization**.
@@ -50,7 +50,7 @@ I am an **AWS Cloud Engineer** with expertise in **cloud infrastructure, automat
 - **Java Fundamentals Provided by IBM** - [Credentials](https://courses.etrain.skillsnetwork.site/certificates/50bb8fed43844813b01f12a8fb35d048)
 - **Agile with Atlassian Jira Provided by Coursera** - [Credentials](https://coursera.org/verify/YA4TQPC83B56)
 
-🚀 **Let's build and innovate in the cloud together!** 🌩️
+##🚀 **Let's build and innovate in the cloud together!** 🌩️
 
 ## 📚 Blog
 Check out my latest articles on cloud engineering and serverless architecture at [My Blog](https://yourblog.com).
